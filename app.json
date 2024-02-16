@@ -22,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#0f172a"
-      }
+      },
+      "package": "com.helenapl145.nlwexpertnative"
     },
     "web": {
       "bundler": "metro",
@@ -35,6 +36,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "aa007436-858e-4b3b-9c51-8bc2dca15f91"
+      }
     }
   }
 }
