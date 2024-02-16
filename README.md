@@ -18,7 +18,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="projeto cardápio" src="./assets/preview.jpeg" width="100%" height ="600px">
+  <img alt="projeto cardápio" src="./assets/preview.jpeg" width="80%" height ="700px">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,7 +35,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A aplicação Expert Notes foi criada para o usuário pedir seus pratos de forma fácil a fim de facilitar o pedido tanto para quem está pedindo como para o restaurante, por isso para realizar todo o projeto se fez necessáiro a utilização de diversas tecnologias e APIs.
 
-- [Visite o projeto online](https://expert-notes-nlw.vercel.app/)
+Para ter acesso ao aplicativo você pode baixar pelo link abaixo o APK e instalar em seu dispositivo android. Ou clonar esse projeto e usar o comando "npx expo start" em seu computador você poderá visualizar o mesmo pelo emulador. 
+
+- [Baixe o aplicativo](https://drive.google.com/file/d/1iuZpsG3zsShvoB6e0apISHT_5Tl3Loui/view?usp=sharing)
 
 
 ## :memo: Licença
